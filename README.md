@@ -158,8 +158,8 @@ Personal/educational use. All rights reserved unless stated otherwise.
 
 ## Authors
 
-- **Tuncayarda**
-- **kdrturan**
+- **Tuncayarda** – https://github.com/Tuncayarda  
+- **kdrturan** – https://github.com/kdrturan
 
 ---
 
